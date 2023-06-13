@@ -31,8 +31,8 @@ Step 8: Save and run the application.
  ```
 /*
 Program to create and design an android application for performing different animations
-Developed by: EASWAR J
-RegisterNumber: 212221230024
+Developed by: shyam naveen raj m
+RegisterNumber: 212221230099
 */
 ```
 
